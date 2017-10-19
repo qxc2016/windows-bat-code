@@ -1,0 +1,3 @@
+#define SVN_VER_PRE        $WCREV$
+#define SVN_VER_CUR        (SVN_VER_PRE + 1)
+#define ProjectName         
